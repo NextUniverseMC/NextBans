@@ -1,0 +1,5 @@
+ name: NextBans
+ version: 0.1
+ author: TheDiamondPicks
+
+ main: ml.nextuniverse.bans.Main
